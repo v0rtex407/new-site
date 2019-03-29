@@ -1,0 +1,10 @@
+body {background-image:url(https://imgur.com/Knor9Ue.jpg);background-attachment:fixed;background-size:100% 100%;font-family:"Comic Sans MS";
+	}
+	header {font-size:20px;font-weight:600;font-family:Arial;text-align:center;margin-top:25px;}
+li {display:inline-block;padding:3px 20px;margin-left:10px;color:green;}
+nav ul {margin-top:40px;font-family:Arial;background:linear-gradient(90deg, rgba(0,255,33,0.1) 0%,rgba(0,255,255,0.3) 25%, rgba(0,255,33,0.3) 50%, rgba(0,255,33,0.2) 75%, rgba(0,255,33,0.1) 100%); box-shadow:inset 0 0 1px 1px white;}
+section p {max-width:165px;text-indent:15px;background-color:rgba(255,38,0,0.2);box-shadow:inset 0 0 3px red;border-radius:10px;padding:5px;}
+.color {background-color:rgba(25,25,255,0.2);}
+article h1 {background-color:rgba(255,38,0,0.2);box-shadow:inset 0 0 3px red;border-radius:10px;padding:5px;max-width:346px;font-size:15px}
+.color2 {background-color:rgba(255,120,12,0.2);}
+aside p {max-width:201px;text-indent:15px;}
